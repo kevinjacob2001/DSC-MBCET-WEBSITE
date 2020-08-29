@@ -169,6 +169,11 @@ a.white {
 	text-decoration: none;
 	transition: all 0.2s;
 }
+.k{
+	background-color: #4285f4;
+}
+
+
 
 .btn-solid-lg:hover {
 	background-color: transparent;
